@@ -1,0 +1,6 @@
+io\Test\Telstra\TestProject\Constants.class
+io\Test\Telstra\TestProject\ExtentManager.class
+io\Test\Telstra\TestProject\GlobalFunctions.class
+io\Test\Telstra\TestProject\ReadExcelData.class
+io\Test\Telstra\TestProject\ReadProperties.class
+io\Test\Telstra\TestProject\Base.class
